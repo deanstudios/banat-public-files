@@ -1,3 +1,7 @@
+---
+title: Banat Privacy Policy
+---
+
 # Privacy Policy
 
 **Last Updated: November 3, 2026**
