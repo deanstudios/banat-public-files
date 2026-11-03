@@ -1,3 +1,7 @@
+---
+title: Banat Terms & Conditions
+---
+
 # Terms of Service for Banat
 
 **Last Updated: November 3, 2026**
